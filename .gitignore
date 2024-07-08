@@ -3,9 +3,3 @@
 
 # Ignore Gradle build output directory
 build
-
-# Ignore the folder of vscode
-.vscode
-
-# Ignore the folder for the test, because I don't have test
-app/src/test
